@@ -53,7 +53,7 @@ Here are the sample outputs of the programs:
 ### Task 4 output 2:
 ![Task 4 Output2](outputs/task4_Output2.png)
 
-### Task 4 output:
+### Task 4 output3:
 ![Task 4 Output3](outputs/task4_Output3.png)
 
 ### Task 5 output 1:
